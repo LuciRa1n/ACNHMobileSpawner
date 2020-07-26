@@ -1,6 +1,6 @@
 # ACNHMobileSpawner
 
-Multi-tool app for Animal Crossing: New Horizons built in Unity. Designed to be used while you are playing the game so you don't have to manually edit saves on a PC. Confirmed working on Windows, Mac, Linux, Android and iOS.
+Multi-tool app for Animal Crossing: New Horizons built in Unity. This custom fork is designed to work better with MacOS/Windows 10 
 
 『あつまれ どうぶつの森』でリアルタイムにアイテムをインジェクトしたり島を編集したりゲーム内の値を変更したり等のカスタマイズを行うことができるAndroid/ iOS(Windows/ macOS/ Linuxも可)向けユーティリティ。
 
@@ -27,13 +27,7 @@ You run this at your own risk, I'm not responsible for anything. Please check th
 
 ### Builds
 
-The application requires an Android device running at minimum Android 4.4 (KitKat) with support for OpenGLES2.
-
-Builds are not guaranteed to be stable. You may download the [compiled builds here](https://github.com/berichan/ACNHMobileSpawner/releases).
-
-iOS builds are auto-built and untested, but I've been told they work. 
-
-I sometimes build for Windows/Mac, but it takes a long time on my slow PC to switch platforms. It's easy enough to grab Unity and the source and compile yourself :)
+This fork has fully tested and updated versions of ACNHMobileSpawner for MacOS/Windows 10
 
 ### Screenshots
 
@@ -47,4 +41,4 @@ Click the image above.
 
 ### Notes
 
-Some code was deleted and had to be rebuilt using ILSpy. I've done my best to clean up the classes affected, but they will be uncommented, minus ILSpy warnings I've kept in just to know what was affected.
+Full credit goes to https://github.com/berichan for their amazing work!
