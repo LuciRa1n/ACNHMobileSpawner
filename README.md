@@ -1,8 +1,6 @@
-# ACNHMobileSpawner
+# ACNHMobileSpawner for MacOS/Windows 10
 
 Multi-tool app for Animal Crossing: New Horizons built in Unity. This custom fork is designed to work better with MacOS/Windows 10 
-
-『あつまれ どうぶつの森』でリアルタイムにアイテムをインジェクトしたり島を編集したりゲーム内の値を変更したり等のカスタマイズを行うことができるAndroid/ iOS(Windows/ macOS/ Linuxも可)向けユーティリティ。
 
 Requires a Switch running custom firmware with the sysmodule [sys-botbase](https://github.com/olliz0r/sys-botbase) or [USB-Botbase](https://github.com/fishguy6564/USB-Botbase) installed.
 
@@ -42,3 +40,4 @@ Click the image above.
 ### Notes
 
 Full credit goes to [berichan](https://github.com/berichan) for their amazing work!
+Special thanks to Amuyea#8530 on Discord and the help from [ACNH Hacking and Development Discord](https://discord.gg/TpqdSE9)
