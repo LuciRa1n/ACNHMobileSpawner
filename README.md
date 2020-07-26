@@ -41,4 +41,4 @@ Click the image above.
 
 ### Notes
 
-Full credit goes to https://github.com/berichan for their amazing work!
+Full credit goes to [berichan](https://github.com/berichan) for their amazing work!
