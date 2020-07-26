@@ -40,4 +40,4 @@ Click the image above.
 ### Notes
 
 Full credit goes to [berichan](https://github.com/berichan) for their amazing work!
-Special thanks to Amuyea#8530 on Discord and the help from the [ACNH Hacking and Development Discord](https://discord.gg/TpqdSE9)!
+Special thanks to Amuyea#8530 on Discord for testing the MacOS Builds and the help from the [ACNH Hacking and Development Discord](https://discord.gg/TpqdSE9)!
